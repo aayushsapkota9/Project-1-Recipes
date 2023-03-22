@@ -1,0 +1,22 @@
+div{
+    
+    text-align: center;
+    background-color: rgb(145, 240, 116); 
+    height: 500px;
+    
+    
+
+}
+h1{
+    background-color: lightcoral;
+    text-align: center;
+}
+.momo,
+.tea,
+.pizza{
+    text-decoration: none;
+}
+}
+.momo{
+    color: black;
+}
